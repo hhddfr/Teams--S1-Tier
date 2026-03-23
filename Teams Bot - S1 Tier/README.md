@@ -1,6 +1,6 @@
 ## Bot Service Infrastructure & Configuration Guide
 
-This repository contains a professional Microsoft Teams bot built using the **Bot Framework SDK** and **Teams Toolkit**. It is designed with a "Configuration as Code" philosophy, using automated workflows to deploy a secure, enterprise-ready environment on Microsoft Azure.
+This repository contains a Microsoft Teams bot built using the **Bot Framework SDK** and **Teams Toolkit**. It is designed with "Configuration as Code", using automated workflows to deploy a secure, enterprise-ready environment on Microsoft Azure.
 
 ---
 
