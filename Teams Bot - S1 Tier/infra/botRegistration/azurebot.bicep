@@ -15,7 +15,7 @@ resource botService 'Microsoft.BotService/botServices@2022-09-15' = {
   location: 'global'
   name: botServiceName
   identity: {
-    type: 'SystemAssigned'
+    type: 'None'
   }
   properties: {
     displayName: botDisplayName
