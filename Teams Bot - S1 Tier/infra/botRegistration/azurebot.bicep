@@ -5,7 +5,7 @@ param resourceBaseName string
 param botDisplayName string
 param msaAppTenantId string
 param botServiceName string = resourceBaseName
-param botServiceSku string = 'B1' // Can choose between B1, B2, B3. F1 possible as well (free tier).
+param botServiceSku string = 'S1' // Can choose between F0 or S1.
 param botAadAppClientId string
 param botAppDomain string
 
